@@ -1,0 +1,6 @@
+K-Means algorithm has linear time complexity and it can be used with large datasets conveniently. 
+With unlabeled big data K-Means offers many insights and benefits as an unsupervised clustering algorithm.
+K-Means is also easy to use. It can be initialized using default parameters in the Scikit-Learn implementation.
+According to this approach, parameters like number of clusters (8 by default), maximum iterations (300 by default), initial centroid initialization (10 by default) can easily be adjusted later on to suit the task goals.
+Our data has no labels (class values or targets) or even column headers, K-Means will still successfully cluster your data.
+This is an example to machine learning harvesting data and extracting useful insights from data that can be totally useless to human eye.
